@@ -1,0 +1,3 @@
+ordering=loginindex
+orderingout=logout
+form=admin.php
